@@ -8,7 +8,7 @@ from reportlab.platypus import (
 )
 from reportlab.lib.styles import getSampleStyleSheet
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://personalized-networking-api.onrender.com"
 
 # --------------------------------------------------
 # PDF Generator
