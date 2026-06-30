@@ -204,10 +204,15 @@ Example output:
 ## 👨‍💻 Author
 
 **Syed Mohammad Sameer**
+
 Email : syedsame2244@gmail.com
+
 Roll No. : 23HM1A3354
+
 B.Tech CSE (AI & ML)
+
 Course : Google Cloud Generative AI
+
 AITS Kadapa
 
 GitHub: https://github.com/samxiao0
